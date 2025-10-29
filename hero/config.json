@@ -1,0 +1,25 @@
+{
+  "ariaLabel": "Homepage highlights",
+  "height": "65vh",
+  "autoplay": true,
+  "interval": 5000,
+  "css": "",
+  "slides": [
+      {
+        "src": "media/slider-100.png",
+      "alt": "New fall collection",
+      "title": "Fall ’25 Collection",
+      "subtitle": "Warm layers. Cooler prices.",
+      "href": "https://site-a.example.com/fall",
+      "cta": "Shop now"
+    },
+    {
+      "src": "media/slider-100.png",
+      "alt": "Event banner",
+      "title": "Holiday Pop-Up",
+      "subtitle": "NYC • Nov 20–23",
+      "href": "https://site-a.example.com/pop-up",
+      "cta": "RSVP"
+    }
+  ]
+}
